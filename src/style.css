@@ -1,0 +1,30 @@
+@import "tailwindcss";
+@theme inline{
+   /* 
+  --clr-bg: var(--clr-white);
+  --clr-bleu: var(--clr-black);
+  --clr-gris: var(--clr-gray-100);
+  --txt-font: var(--ma-font);
+  */
+
+}
+
+@layer base{
+
+
+
+:root {
+ /* 
+  --clr-white: oklch(1 0 0);
+  --clr-black: oklch(0 0 0);  
+  --clr-gray-100: oklch(0.96 0 0);
+
+
+  --ma-font: 'Roboto', sans-serif;
+  
+  --mon-image : url("");
+ */
+
+}
+
+}
